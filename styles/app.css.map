@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAGA,IAAK;EACH,gBAAgB,EAHF,OAAwB",
-"sources": ["../scss/app.scss"],
+"mappings": "AAEA,IAAK;EACH,gBAAgB,ECFF,OAAwB;EDGtC,OAAG;IACD,aAAa,EAAE,KAAK;IACpB,cAAS;MACP,KAAK,EAAC,GAAG",
+"sources": ["../scss/app.scss","../scss/_colors.scss"],
 "names": [],
 "file": "app.css"
 }

@@ -1,4 +1,8 @@
 body {
   background-color: #bf4040; }
+  body li {
+    margin-bottom: 1 rem; }
+    body li.active {
+      color: red; }
 
 /*# sourceMappingURL=app.css.map */
